@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bics/MemoryGame#readme",
   "dependencies": {
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
   }
 }
